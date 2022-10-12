@@ -1,6 +1,6 @@
 ### Olá! Eu sou Everton Santos! 👋
 
-- 🔭 Hoje trabalho com fullstack
+- 🔭 Hoje trabalho com FullStack
 - 🌱 Estudando Python
 - 😄 Pronouns: ele/dela
 
