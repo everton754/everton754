@@ -20,10 +20,8 @@
  <img align="center" alt="Everton - Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
  <img align="center" alt="Everton - Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
  <img align="center" alt="Everton - Sqlite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+ <img align="right" alt="Everton - Avatar" height="180" width="200" src="https://user-images.githubusercontent.com/98766415/196044932-58f42346-764a-456d-b1ec-9af02c799908.png">
 </div>
 ##✨👨‍💻Let's get connected:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evert0n-sant0s/)
-
-
-         
