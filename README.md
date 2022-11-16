@@ -1,9 +1,9 @@
 <div align="center">
  <img align="center" alt="cidade" height="250" width="100%" src="https://github.com/everton754/everton754/blob/main/pixel-city-chill.gif">
 </div>
-
-### Hi! I'm Everton Santos 
-###   A Web Developer 👋
+<div align="center">
+ <img align="center" alt="cidade" height="50" width="435" src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=06141A&center=true&width=435&lines=Hi!+I'm+Everton+Santos%2C+a+Web+Developer.">
+</div>
 
 - 🔭 Today I work with Full Stack Web Development
 - 🌱 Studying Java
@@ -25,7 +25,6 @@
  <img align="center" alt="Everton - Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
  <img align="center" alt="Everton - Postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
  <img align="center" alt="Everton - Sqlite" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
- <img align="right" alt="Everton - Avatar" height="180" width="200" src="https://user-images.githubusercontent.com/98766415/196044932-58f42346-764a-456d-b1ec-9af02c799908.png">
 </div>
 ##✨👨‍💻Let's get connected:
 
