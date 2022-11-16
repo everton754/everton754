@@ -4,16 +4,17 @@
 <div align="center">
  <img align="center" alt="cidade" height="50" width="435" src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=06141A&center=true&width=435&lines=Hi!+I'm+Everton+Santos%2C+a+Web+Developer.">
 </div>
+<div align="center">
+    <p>🔭 Today I work with Full Stack Web Development</p>
+    <p>🌱 Studying Java</p>
+    <p>😄 Pronouns: Ele/Dele</p>
+</div>
 
-- 🔭 Today I work with Full Stack Web Development
-- 🌱 Studying Java
-- 😄 Pronouns: Ele/Dele
-
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
  <img align="center" alt="Everton - Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  <img align="center" alt="Everton - Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
  <img align="center" alt="Everton - Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
