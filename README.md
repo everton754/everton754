@@ -1,8 +1,12 @@
-### Olá! Eu sou Everton Santos! 👋
-<div style="width:100%;height:0;padding-bottom:142%;position:relative;"><iframe src="https://giphy.com/embed/LSKHkpRJySs5W81D7B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-LSKHkpRJySs5W81D7B">via GIPHY</a></p>
+<div align="center">
+ <img align="center" alt="cidade" height="250" width="100%" src="https://github.com/everton754/everton754/blob/main/pixel-city-chill.gif">
+</div>
 
-- 🔭 Hoje trabalho com Fullstack
-- 🌱 Estudando Django
+### Hi! I'm Everton Santos 
+###   A Web Developer 👋
+
+- 🔭 Today I work with Full Stack Web Development
+- 🌱 Studying Java
 - 😄 Pronouns: Ele/Dele
 
 <div>
